@@ -44,30 +44,53 @@ Put simply, autodidactism is when you learn a subject or skill independently, us
 You put in plenty of hours studying alone, expanding your knowledge and skills beyond any structured curriculum offered at a university. You keep going for months and years, not for the sake of a credential, but because you're insatiably curious. Like me 😉
 
 
-### (2) To Become a Competent Web Developer
+### (2) To Become a Competent Artist
 
 > *"Knowledge applied is power; happiness is the feeling of power increasing"*
 
 I aspire to be an individual who has the optimism, competency and confidence to actively shape the world — a playful creator, so to speak. I wish to shape the world as I envision it instead of passively letting the world shape me.
 
-Learning how to code is merely one aspect of my commitmment to learning useful skills
+Learning how to draw is merely one aspect of my commitmment to learning useful skills.
 
-The antidote to feelings of powerlessness is to increase the amount of skills at our disposal. As we increase the amount of skills we have, we increase our power to have an effect on the world. And that potency feels good. Really good.
+The antidote to feelings of powerlessness I feel is to increase the amount of skills at my disposal. As I increase the amount of skills I have, I increase my power to have an effect on the world. And that potency feels good. Really good.
 
 
 ### (3) To promote myself as the Digital Autodidact
 
 > *"I shall note be satisfied that I have done my best until my name is known from one end of the world to the other"*
 
+I relish positive attention! I'll be the first to acknowledge that I feel delight whenever people recognize I'm passionate about being autodidactic and when they resonate with my level of curiosity.
+
+I promote the fact that I'm a digital autodidact so that other people — especially those who share the same qualities as I do — can easily find me. I want to find the company of kindred spirits, because through experience, I know that my quest to become a Renaissance man can be a lonely path to walk sometimes.
+
+Many people nowadays don't see the point in exerting oneself to self-improve, especially in a culture that values convenience and comfort. I don't relate well to the mainstream culture I live in because I subscribe to different ideals. I say this, not to look down upon anyone else, but merely to acknowledge that there's a difference — and that this difference is frequently what creates the aforementioned feelings of loneliness.
+
+Whenever share things online, it is to be a beacon — a rally point for all who wish to share in the insatiable curiosity and wonder I feel.
 
 
 ### (4) To promote the Strenuous Life Philosophy
 
 > *"I wish to preach, not the doctrine of ignoble ease, but the doctrine of the strenuous life, the life of toil and effort, of labor and strife; to preach that highest form of success which comes, not to the man who desires mere easy peace, but to the man who does not shrink from danger, from hardship, or from bitter toil, and who out of these wins the splendid ultimate triumph."*
 
+> *"A mere life of ease is not in the end a very satisfactory life, and, above all, it is a life which ultimately unfits those who follow it for serious work in the world."*
+
+If there's one philosophy I firmly stand for, it would be Theodore Roosevelt's "Strenuous Life" philosophy. I believe there is something special and good in a man who voluntarily chooses to live a strenuous life, particularly in today's sendentary world. 
+
+This ideal is beautifully illustrated in Xenophon's allegory, ["The Choice of Hercules"](https://www.artofmanliness.com/character/manly-lessons/manvotional-the-choice-of-hercules/). Its main lesson is powerfully summed up here in two statements:
+
+> *"There can be no sweet without the bitter. No growth and no true happiness is obtainable without effort and without developing virtue"*
+
+> *"Unearned comfort knows no nobility. Fat, drunk and stupid is no way to go through life; to live so is to hoard up anguish, torment and remorse to be suffered later"*
 
 
-Learn more about the TSL here:
+There is nothing praiseworthy in being a man who allows himself to deteriorate simply because he wishes to avoid discomfort at all costs. Conversely, there is something admirable in exerting oneself — while still taking proper self-care — in the pursue of a grand mission.
+
+What that grand mission will vary person to person, but the point still stands true.
+
+My mission is **to champion the Strenuous Life in the 21st century**. How? Through continuous self-improvement, and by becoming a powerful Renaissance man who is a competent programmer, artist and storyteller. Though deed and word, I will demonstrate the worthiness of the TSL philosophy to all. I'm probably not going to be liked by everyone, but that's okay — I only wish to find my kind of people, wherever they are on Earth. Popularity isn't the goal; building a cadre of autodidacts is the goal!
+
+
+Learn more about the TSL philosophy here:
 [A Call For A New Strenuous Age](https://www.artofmanliness.com/character/manly-lessons/call-new-strenuous-age/)
 
 
