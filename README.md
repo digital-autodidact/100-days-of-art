@@ -37,6 +37,8 @@ My overall intention for the challenge to become a better portraiture artist who
 
 > *"I am always ready to learn, although I do not always like being taught"*
 
+> *"To live in this world without curiosity is like wandering a great library without touching its books"*
+
 Autodidactism is the practice of self-education. If you like etymology, the name has two parts: “auto”, meaning self, and “didactic”, which relates to teaching or instruction.
 
 Put simply, autodidactism is when you learn a subject or skill independently, usually outside of formal learning institutions (such as K-12 education, or university). The key thing is not whether or not you learn in a classroom, but rather having the "autodidact mindset". If you have the autodidactic mindset, you don't limit your learning to inside a classroom nor do you cling to one teacher. You're a self-directing learner: You take the initiative, setting your own curriculum, your own learning goals and organizing your deliberate practice periods. 
@@ -65,7 +67,7 @@ I promote the fact that I'm a digital autodidact so that other people — especi
 
 Many people nowadays don't see the point in exerting oneself to self-improve, especially in a culture that values convenience and comfort. I don't relate well to the mainstream culture I live in because I subscribe to different ideals. I say this, not to look down upon anyone else, but merely to acknowledge that there's a difference — and that this difference is frequently what creates the aforementioned feelings of loneliness.
 
-Whenever share things online, it is to be a beacon — a rally point for all who wish to share in the insatiable curiosity and wonder I feel.
+Whenever I share things online, it is to be a beacon — a rally point for all who wish to share in the insatiable curiosity and wonder I feel. In the end, I'm just a guy who likes to learn things and who wants to play with others. That's all 😊
 
 
 ### (4) To promote the Strenuous Life Philosophy
