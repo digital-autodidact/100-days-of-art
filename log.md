@@ -46,10 +46,10 @@ https://en.wikipedia.org/wiki/Testing_effect
 https://www.thebehavioralscientist.com/glossary/testing-effect
 
 
-### **Screenshots**
+### **Images**
 
-_[Insert images here]_
-
+(1) Today's Sketchwork
+[![Day1-Screenshot-Cognitive-Drawing.jpg](https://i.postimg.cc/XYNHzfp7/Day1-Screenshot-Cognitive-Drawing.jpg)](https://postimg.cc/bsM9G2xK)
 
 ### **Relevant Link(s)**
 - [Day 1 Tweet Update](https://x.com/autodidactdiary/status/1887331992741536126)
@@ -69,7 +69,7 @@ _[Insert images here]_
 *I completed day 2 of the challenge! Here's what I did today:*
 
 - *Attended an ink-and-pen drawing class*
-- *Completed a contour sketch.*
+- *Completed a contour sketch*
 
 ### **Thoughts & Feelings**: 
 
@@ -120,10 +120,10 @@ _[Insert images here]_
 https://enhancedrawing.com/what-is-drawing-upside-down/
 
 
-### **Screenshots**
+### **Images**
 
-_[Insert images here]_
-
+(1) Today's Sketchwork
+[![Day2-Screenshot-Ink-Drawing.jpg](https://i.postimg.cc/DyPp6jfM/Day2-Screenshot-Ink-Drawing.jpg)](https://postimg.cc/MvXYKYQ7)
 
 ### **Relevant Link(s)**
 - [Day 2 Tweet Update](https://x.com/autodidactdiary/status/1887707794540810242)
@@ -135,7 +135,7 @@ _[Insert images here]_
 
 
 
-<h2 align="center"> Day 0: Weekday, [DATE]</h2>
+<h2 align="center"> Day 3: Friday, February 7, 2025</h2>
 
 ### **Today's Progress**: 
 
@@ -166,22 +166,22 @@ _[Describe how you think/feel about the challenge today]_
 **5. Did you use any tutorial resources apart from the Cognitive Drawing workbook?**
 
 
-### **Screenshots**
+### **Images**
 
-_[Insert images here]_
-
+(1) Today's Sketchwork
+[![Day3-Screenshot-Cognitive-Drawing.jpg](https://i.postimg.cc/HsgPQDmM/Day3-Screenshot-Cognitive-Drawing.jpg)](https://postimg.cc/jCMXb1Lq)
 
 ### **Relevant Link(s)**
-- [Day ??? Tweet Update]()
+- [Day 3 Tweet Update](https://x.com/autodidactdiary/status/1888095631358492974)
 - [100DaysOfArt Beeminder](https://www.beeminder.com/andrasv/100daysofart)
-- [link to any additional tutorial resources you used]
 
 
 
 
 
 
-<h2 align="center"> Day 0: Weekday, [DATE]</h2>
+
+<h2 align="center"> Day 4: Thursday, February 13, 2025</h2>
 
 ### **Today's Progress**: 
 
@@ -212,15 +212,15 @@ _[Describe how you think/feel about the challenge today]_
 **5. Did you use any tutorial resources apart from the Cognitive Drawing workbook?**
 
 
-### **Screenshots**
+### **Images**
 
-_[Insert images here]_
-
+(1) Today's Sketchwork
+[![Day4-Screenshot-Ink-Drawing.jpg](https://i.postimg.cc/y8fQ4DZh/Day4-Screenshot-Ink-Drawing.jpg)](https://postimg.cc/LJ1Bj6vh)
 
 ### **Relevant Link(s)**
-- [Day ??? Tweet Update]()
+- [Day 4 Tweet Update](https://x.com/autodidactdiary/status/1890228976268058797)
 - [100DaysOfArt Beeminder](https://www.beeminder.com/andrasv/100daysofart)
-- [link to any additional tutorial resources you used]
+
 
 
 
