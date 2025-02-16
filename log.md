@@ -139,36 +139,55 @@ https://enhancedrawing.com/what-is-drawing-upside-down/
 
 ### **Today's Progress**: 
 
-_[Write what you did today. Tell me in bullet list form]_
+*I completed a 30 minute drawing session! Here's what I did today:*
+- *Completed Day 2 page of the Cognitive Drawing workbook*
 
 ### **Thoughts & Feelings**: 
 
-_[Describe how you think/feel about the challenge today]_
+*I feel a bit embarrassed with the sketch I made today. Why's that? Because my eyes zero in on the mistakes I drew. That said, I don't want to beat myself up — instead, I'm going to praise myself for making an attempt, and for sharing my sketch publicly. I know my current skill level as an artist...is unremarkable, but that's entirely okay.*
+
+*Remember, Anthony, the point of this 100DaysOfArt challenge is to build a habit that'll help you improve 1% every day. The point was NEVER about being perfect right now — it's about improving bit by bit over time.*
 
 
 ### **Post-Practice Review**:
 **1. What was your main goal for this session? Did you achieve it?**
 
+*Today's task was to draw a female figure in order to capture a snapshot of my current ability as an artist. I succeeded at that!*
 
 
 **2. What do you like and dislike about your sketches today?**
 
+*Ooh, it's hard to find something I like about my sketch today!*
+- *As mentioned above, I'm pleased that I made an attempt. That's a small win right there.*
+- *Another thing I like is that I varied the line weight in my sketch; it's not all the same weight.*
+- *Third, I can see that I made an attempt at including the impression of a shadow on the female's neck.*
+
+*As for things I disliked, my eyes see a lot of glaring mistakes:*
+- *the proportions are distorted! The female figure has a unusually long torso and legs*
+- *the legs are not the same size; you can see the left thigh is thicker than the right thigh*
+- *the feet are drawn too small; the toes of the feet are drawn inaccurately*
+- *the female's head was drawn in an oversimplified way; her facial features are generic; she hardly has hair*
+- *the upper arms resemble stiff tubes; they lack the curves that imply the muscles and fat that would exist on that part of the human body*
 
 
 **3. Did you make any mistakes today? If so, are there any lessons you can derive from them?**
 
+*Yes, I made several anatomical mistakes. However, I'm not sure I have sufficient knowledge to self-correct yet. Perhaps if you keep working through the workbook, and you'll gain more knowledge about how to draw anatomically correct body parts.*
 
 
 **4. What did you learn from your practice session today? Is there anything you want to do more drills on?**
 
+*Today's practice session emphasized my lack of knowledge about how to draw human anatomy. Rather than dissuade me, I feel resolved to continue learning and practicing how to draw human figures more!*
 
 
 **5. Did you use any tutorial resources apart from the Cognitive Drawing workbook?**
 
+*No, not today.*
 
 ### **Images**
 
 (1) Today's Sketchwork
+
 [![Day3-Screenshot-Cognitive-Drawing.jpg](https://i.postimg.cc/HsgPQDmM/Day3-Screenshot-Cognitive-Drawing.jpg)](https://postimg.cc/jCMXb1Lq)
 
 ### **Relevant Link(s)**
@@ -215,6 +234,7 @@ _[Describe how you think/feel about the challenge today]_
 ### **Images**
 
 (1) Today's Sketchwork
+
 [![Day4-Screenshot-Ink-Drawing.jpg](https://i.postimg.cc/y8fQ4DZh/Day4-Screenshot-Ink-Drawing.jpg)](https://postimg.cc/LJ1Bj6vh)
 
 ### **Relevant Link(s)**
